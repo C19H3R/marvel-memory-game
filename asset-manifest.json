@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/marvel-memory-game/static/css/main.b96dafbd.chunk.css",
+    "main.js": "/marvel-memory-game/static/js/main.a30e8f1b.chunk.js",
+    "main.js.map": "/marvel-memory-game/static/js/main.a30e8f1b.chunk.js.map",
+    "runtime-main.js": "/marvel-memory-game/static/js/runtime-main.4a983969.js",
+    "runtime-main.js.map": "/marvel-memory-game/static/js/runtime-main.4a983969.js.map",
+    "static/js/2.3c64794f.chunk.js": "/marvel-memory-game/static/js/2.3c64794f.chunk.js",
+    "static/js/2.3c64794f.chunk.js.map": "/marvel-memory-game/static/js/2.3c64794f.chunk.js.map",
+    "index.html": "/marvel-memory-game/index.html",
+    "static/css/main.b96dafbd.chunk.css.map": "/marvel-memory-game/static/css/main.b96dafbd.chunk.css.map",
+    "static/js/2.3c64794f.chunk.js.LICENSE.txt": "/marvel-memory-game/static/js/2.3c64794f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a983969.js",
+    "static/js/2.3c64794f.chunk.js",
+    "static/css/main.b96dafbd.chunk.css",
+    "static/js/main.a30e8f1b.chunk.js"
+  ]
+}
